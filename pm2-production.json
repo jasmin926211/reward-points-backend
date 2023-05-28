@@ -1,0 +1,9 @@
+{
+  "apps": [
+      {
+          "name": "reward-points-backend",
+          "script": "npm",
+          "args" : "run start:prod"
+      }
+  ]
+}
